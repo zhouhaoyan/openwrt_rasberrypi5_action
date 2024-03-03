@@ -1,0 +1,2 @@
+# openwrt_rasberrypi5_action
+用于树莓派5的openwrt构建
